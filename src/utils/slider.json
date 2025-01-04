@@ -1,0 +1,39 @@
+
+[
+  {
+    "name": "Seegehalli, Whitefield",
+    "price": "5,50,000",
+    "detail": "Bangalore, chikkabanahalli  Main Road, 37 ",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sobha Oakshire Villas",
+    "price": "4,95,000",
+    "detail": "Bangalore Rural IVC Road, 55 ",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Discover Dream villas",
+    "price": "1,40,000",
+    "detail": "komalpati, Bangalore",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Dodballapur Villas",
+    "price": "23,00,000",
+    "detail": "Dodballapur Road, Bangalore",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Amoha Residences: Embrace the Himalayan Asatti Garden City",
+    "price": "9,50,000",
+    "detail": "Dharamshala Himachal Pradesh",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Sophisticated Prime Villas in Gandhi Path West",
+    "price": "1,50,000",
+    "detail": "302021 Jaipu",
+    "image": "./r3.png"
+  }
+]
